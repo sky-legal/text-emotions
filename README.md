@@ -38,9 +38,9 @@ Ce dossier contient les fichiers de travail :
 
 ```
 @misc{text-emotions,
-  author = BF,
-  title = text-emotions,
-  year = 2025,
-  howpublished = https://github.com/sky-legal/text-emotions/
+  author = {BF},
+  title = {text-emotions},
+  year = {2025},
+  howpublished = {\url{https://github.com/sky-legal/text-emotions/}}
 }
 ```
