@@ -24,11 +24,11 @@ SOFTWARE.
 If you use this project in your research or work, please cite it as follows:
 
 ```
-@misc{your_project,
-  author = {Your Name},
-  title = {Your Project Title},
-  year = {2025},
-  howpublished = {\url{https://github.com/yourusername/yourproject}}
+@misc{text-emotions,
+  author = BF,
+  title = text-emotions,
+  year = 2025,
+  howpublished = https://github.com/sky-legal/text-emotions/
 }
 ```
 
