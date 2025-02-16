@@ -1,4 +1,5 @@
 # Analyse d'émotions
+![Workflow](workflow.PNG)
 
 ## Présentation
 
@@ -25,7 +26,6 @@ Ce dossier contient les fichiers de travail :
 
 📊 Les résultats finaux de l’analyse des émotions sont illustrés ci-dessous :
 
-![Workflow](workflow.PNG)
 
 ![Résultat](résultat.PNG)
 
