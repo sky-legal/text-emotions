@@ -19,7 +19,7 @@ Ce dossier contient les fichiers de travail :
 - 📊 [**France24_chunks.csv**](data/France24_chunks.csv) : Texte découpé en segments analytiques.
 - 🏷️ [**France24_annotated.csv**](data/France24_annotated.csv) : Texte annoté avec les émotions détectées.
 - 📑 [**annotated_dataset.csv**](data/annotated_dataset.csv) : Texte découpé en segments analytiques.
-- 📝 [**annotated_output.csv**](data/annotated_output.csv) : Résultat final du pipeline d'annotation.
+- 📝 [**chunks.csv**](data/dataset_chunks.csv) : Résultat final du pipeline d'annotation.
 - 🎙️ [**transcription.txt**](data/transcription.txt) : Texte brut issu de la transcription.
 
 ### **3. Résultats**
