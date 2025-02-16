@@ -3,7 +3,23 @@
 
 ## Présentation
 
-Ce projet vise à extraire, transcrire et analyser les émotions contenues dans les transcriptions d'audios, avec un exemple issu de France24.
+Ce projet vise à extraire, transcrire et analyser les émotions contenues dans les transcriptions d'audios, avec un exemple issu de France24. Voici la liste des émotions ;
+
+😨 Fear
+
+😡 Anger
+
+🌟 Hope
+
+😕 Confusion
+
+🤬 Outrage
+
+😰 Uncertainty
+
+🤝 Empathy
+
+😐 Neutral
 
 ## Structure du Projet
 
