@@ -47,11 +47,14 @@ Ce dossier contient les fichiers de travail :
 
 ## Instructions d’Utilisation
 
+
 1. Ouvrir **[Emotions.ipynb](Emotions.ipynb)** dans Jupyter Notebook.
 2. Exécuter les cellules une par une pour lancer le pipeline.
 3. Explorer les résultats visuels et textuels.
 
+## Citation
 
+Si vous utilisez ce projet dans vos recherches ou votre travail, veuillez le citer comme suit :
 ```
 @misc{text-emotions,
   author = {BF},
