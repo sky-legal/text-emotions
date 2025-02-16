@@ -36,3 +36,11 @@ Ce dossier contient les fichiers de travail :
 3. Explorer les résultats visuels et textuels.
 
 
+```
+@misc{text-emotions,
+  author = BF,
+  title = text-emotions,
+  year = 2025,
+  howpublished = https://github.com/sky-legal/text-emotions/
+}
+```
